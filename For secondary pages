@@ -1,0 +1,24 @@
+<!-- 
+  STEPS FOR ADDING THIS SECTION TO DIFFERENT PAGES THAT ARE NOT THE HOME PAGE 
+  1- Duplicate the page you want to edit with a new template file 
+  2- find the new template type. It will be called something like "page.about.liquid"
+  3- Add the code to that template for secondary pages. 
+
+
+
+
+
+
+
+-->
+{
+  "sections": {
+    "main": {
+      "type": "page-main",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
